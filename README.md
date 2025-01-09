@@ -20,7 +20,6 @@ O **MovieStar** é uma plataforma onde os usuários podem explorar e compartilha
 - PHP puro
 - HTML
 - CSS
-- JavaScript (para funcionalidades interativas)
 
 ## Como Usar
 
